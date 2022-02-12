@@ -39,8 +39,6 @@ Run the following commands to compile and link the program:
 * make clean
 * make DEBUG=1 /DEBUG=X/ to enable conditional compiling
 
-# To run the program use the following command and 
-# use " " for command line arguments.
-
+* To run the program use the following command and use " " for command line arguments.
 * ./pattern_matching_replacement "String" "pattern to replace" "replacement word" "color of replaced word" "color of replacement word" AND SEE THE MAGICAL RESULT OF STRING MATCHING AND REPLACEMENT.
 
